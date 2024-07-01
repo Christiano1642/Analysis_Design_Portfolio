@@ -26,4 +26,4 @@ These projects have refined my programming practices to focus more on writing ma
 
 ---
 
-This reflection captures the essence of your journey through these projects and highlights the skills and insights you have gained. Adding this to your README file will provide valuable context for anyone reviewing your work, including potential employers or collaborators.
+
